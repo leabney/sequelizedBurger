@@ -1,0 +1,39 @@
+#burger {
+    width: 30%;
+    padding-top: 10px;
+}
+
+body{
+    background-color: #252527;
+    color: white;
+    font-family:chawp;
+}
+
+#burgerContainer{
+    padding-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.row{
+    padding-bottom: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+    padding-bottom: 4px;
+}
+
+.change-status{
+    margin-left: 8px;
+}
+
+h3{
+    margin-left: 25px;
+}
+
+
